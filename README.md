@@ -15,10 +15,6 @@ RHEL/FEDORA
 
     sudo dnf install python3-tk
 
-ARCH
-
-    sudo pacman -S python3-tk
-
 OPENSUSE
 
     sudo zypper install python3-tk
