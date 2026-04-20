@@ -9,16 +9,16 @@ Yapay zekadan destek aldığım, kendim tamamen kopyala-yapıştır yapmadan yaz
 
 DEBIAN/UBUNTU
 
-Tkinter gerekli: sudo apt install python3-tk
+sudo apt install python3-tk
 
 RHEL/FEDORA
 
-Tkinter gerekli: sudo dnf install python3-tk
+sudo dnf install python3-tk
 
 ARCH
 
-Tkinter gerekli: sudo pacman -S python3-tk
+sudo pacman -S python3-tk
 
 OPENSUSE
 
-Tkinter gerekli: sudo zypper install python3-tk
+sudo zypper install python3-tk
