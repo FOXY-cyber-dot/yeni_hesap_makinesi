@@ -9,16 +9,16 @@ Yapay zekadan destek aldığım, kendim tamamen kopyala-yapıştır yapmadan yaz
 
 DEBIAN/UBUNTU
 
-sudo apt install python3-tk
+    sudo apt install python3-tk
 
 RHEL/FEDORA
 
-sudo dnf install python3-tk
+    sudo dnf install python3-tk
 
 ARCH
 
-sudo pacman -S python3-tk
+    sudo pacman -S python3-tk
 
 OPENSUSE
 
-sudo zypper install python3-tk
+    sudo zypper install python3-tk
